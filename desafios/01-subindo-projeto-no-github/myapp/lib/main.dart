@@ -106,7 +106,8 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'You have pressed the button this many times:',
+              'Quantidade de vezes que você pressionou o botão:',
+              style: TextStyle(color: Colors.indigo),
             ),
             Text(
               '$_counter',
