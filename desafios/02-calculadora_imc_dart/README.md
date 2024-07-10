@@ -1,0 +1,1 @@
+## Este exemplo foi utilizado como resolução ao desafio de criar uma calculadora de imc com dart, através do recebimento de parâmetros via console, tratamento de exceções, classificação do imc segundo a tabela proposta no exercício e execução de testes.
